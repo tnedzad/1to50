@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MFG</string>
+    <string name="textView">TextView</string>
+    <string name="reset">Reset</string>
+    <string name="mistakes">Mistakes:</string>
+    <string name="Vibrations_on_off">Vibrations On/Off</string>
+</resources>
